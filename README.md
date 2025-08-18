@@ -8,6 +8,7 @@ The project is divided into **backend**, **dashboard**, and **frontend** modules
 ## Project Structure
 
 Zerodha-Clone/
+
 ├── backend/ # Server-side APIs and business logic
 
 ├── dashboard/ # Authenticated dashboard UI (holdings, orders, watchlist)
