@@ -9,9 +9,13 @@ The project is divided into **backend**, **dashboard**, and **frontend** modules
 
 Zerodha-Clone/
 ├── backend/ # Server-side APIs and business logic
+
 ├── dashboard/ # Authenticated dashboard UI (holdings, orders, watchlist)
+
 ├── frontend/ # Public-facing landing pages
+
 ├── .gitignore
+
 ├── README.md
 
 ---
